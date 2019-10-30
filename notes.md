@@ -38,3 +38,9 @@ Overview:
 
 When reading paper next week, see if you can identify the ingredients (labeled training dataset w/ N items: input description x and output y, model: rules for how to predict y from x for a new iten f(x) = y, goal/objective: minimize the prediction errors and maximize the likelihood.
 
+
+## 10/23/2019
+# Biostatistics and Medical Informatics
+
+* Motivation for ultradense peptide arrays:
+
